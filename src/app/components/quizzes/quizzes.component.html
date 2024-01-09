@@ -1,0 +1,6 @@
+<div class="d-flex flex-column justify-content-center">
+  <h1>Selecione um Quizz</h1>
+  <div class="p-2 container" *ngFor="let quizz of quizzes" aria-current="page">
+    <a class="btn btn-outline-light col-12" routerLink="/quizz/{{quizz.id}}">{{ quizz.title }}</a>
+  </div>
+</div>

@@ -1,0 +1,456 @@
+[
+  {
+    "id": 1,
+    "title": "Em uma Galáxia Distante",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual facção espacial você se juntaria?",
+        "options": [
+          {"id": 1, "name": "A Aliança Galáctica", "alias": "B"},
+          {"id": 2, "name": "O Império Sombrio", "alias": "A"},
+          {"id": 3, "name": "Os Mercenários Estelares", "alias": "A"},
+          {"id": 4, "name": "A Ordem dos Exploradores", "alias": "B"}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual nave você escolheria para suas missões?",
+        "options": [
+          {"id": 1, "name": "Cruzador de Batalha", "alias": "A"},
+          {"id": 2, "name": "Nave de Infiltração", "alias": "B"},
+          {"id": 3, "name": "Cargueiro Espacial", "alias": "B"}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Como você lidaria com planetas rebeldes?",
+        "options": [
+          {"id": 1, "name": "Suprimir a rebelião com força", "alias": "A"},
+          {"id": 2, "name": "Negociar uma trégua", "alias": "B"},
+          {"id": 3, "name": "Ignorar e seguir em frente", "alias": "B"}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual seria seu papel na hierarquia espacial?",
+        "options": [
+          {"id": 1, "name": "Comandante de Frota", "alias": "A"},
+          {"id": 2, "name": "Diplomata Intergaláctico", "alias": "B"},
+          {"id": 3, "name": "Caçador de Recompensas", "alias": "A"}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Como você abordaria uma ameaça alienígena desconhecida?",
+        "options": [
+          {"id": 1, "name": "Investigaria antes de agir", "alias": "B"},
+          {"id": 2, "name": "Atacaria preventivamente", "alias": "A"},
+          {"id": 3, "name": "Pediria ajuda a especialistas", "alias": "B"}
+        ]
+      }
+    ],
+    "results": {
+      "A": "Você se tornaria um Comandante Espacial implacável na defesa da ordem!",
+      "B": "Você se tornaria um Diplomata Espacial buscando paz e negociações!"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Escolha seu caminho no universo geek",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual seria sua arma preferida?",
+        "options": [
+          {"id": 1, "name": "Espada de luz", "alias": "A"},
+          {"id": 2, "name": "Varinha mágica", "alias": "B"},
+          {"id": 3, "name": "Blaster laser", "alias": "A"},
+          {"id": 4, "name": "Arco e flecha", "alias": "B"},
+          {"id": 5, "name": "Sabre de luz", "alias": "A"}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual seria seu companheiro de aventuras?",
+        "options": [
+          {"id": 1, "name": "Dragão", "alias": "A"},
+          {"id": 2, "name": "Robô inteligente", "alias": "A"},
+          {"id": 3, "name": "Animal mágico", "alias": "B"},
+          {"id": 4, "name": "Humano leal", "alias": "B"},
+          {"id": 5, "name": "Alienígena amigo", "alias": "A"}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Qual é o seu objetivo final?",
+        "options": [
+          {"id": 1, "name": "Dominar o universo", "alias": "A"},
+          {"id": 2, "name": "Proteger o reino", "alias": "B"},
+          {"id": 3, "name": "Encontrar relíquias perdidas", "alias": "A"},
+          {"id": 4, "name": "Descobrir a verdadeira identidade", "alias": "B"},
+          {"id": 5, "name": "Explorar o multiverso", "alias": "A"}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "O que te motiva?",
+        "options": [
+          {"id": 1, "name": "Vingança", "alias": "A"},
+          {"id": 2, "name": "Justiça", "alias": "B"}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Qual é o seu veículo de escolha?",
+        "options": [
+          {"id": 1, "name": "Nave espacial", "alias": "A"},
+          {"id": 2, "name": "Cavalo alado", "alias": "B"}
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Em quem você confiaria?",
+        "options": [
+          {"id": 1, "name": "Mago sábio", "alias": "B"},
+          {"id": 2, "name": "Hacker habilidoso", "alias": "A"}
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Como você lidaria com traição?",
+        "options": [
+          {"id": 1, "name": "Vingança impiedosa", "alias": "A"},
+          {"id": 2, "name": "Perdão e redenção", "alias": "B"}
+        ]
+      }
+    ],
+    "results": {
+      "A": "Você está destinado a seguir o caminho sombrio!",
+      "B": "Você é o herói que o universo precisa!"
+    }
+  },
+  {
+    "id": 3,
+    "title": "O Desafio das Dimensões",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Escolha um portal para atravessar:",
+        "options": [
+          {"id": 1, "name": "Portal mágico", "alias": "B"},
+          {"id": 2, "name": "Buraco de minhoca", "alias": "A"},
+          {"id": 3, "name": "Porta dimensional", "alias": "B"},
+          {"id": 4, "name": "Portal quântico", "alias": "A"},
+          {"id": 5, "name": "Fenda temporal", "alias": "B"}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual seria sua habilidade especial?",
+        "options": [
+          {"id": 1, "name": "Telecinese", "alias": "A"},
+          {"id": 2, "name": "Invisibilidade", "alias": "B"},
+          {"id": 3, "name": "Controle do tempo", "alias": "A"},
+          {"id": 4, "name": "Leitura de mentes", "alias": "B"},
+          {"id": 5, "name": "Manipulação de elementos", "alias": "A"}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Em qual dimensão você se sentiria em casa?",
+        "options": [
+          {"id": 1, "name": "Dimensão mágica", "alias": "B"},
+          {"id": 2, "name": "Dimensão tecnológica", "alias": "A"},
+          {"id": 3, "name": "Dimensão dos pesadelos", "alias": "B"},
+          {"id": 4, "name": "Dimensão da fantasia", "alias": "A"},
+          {"id": 5, "name": "Dimensão dos heróis", "alias": "B"}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual seria seu aliado dimensional?",
+        "options": [
+          {"id": 1, "name": "Guardião místico", "alias": "B"},
+          {"id": 2, "name": "Ciborgue interdimensional", "alias": "A"}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Como você lidaria com criaturas interdimensionais hostis?",
+        "options": [
+          {"id": 1, "name": "Batalhando com magia", "alias": "B"},
+          {"id": 2, "name": "Usando tecnologia avançada", "alias": "A"}
+        ]
+      },
+      {
+        "id": 6,
+        "question": "O que você faria se ficasse preso em uma dimensão desconhecida?",
+        "options": [
+          {"id": 1, "name": "Explorar em busca de uma saída", "alias": "B"},
+          {"id": 2, "name": "Construir um dispositivo para escapar", "alias": "A"}
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Qual seria o desafio mais assustador em uma dimensão alternativa?",
+        "options": [
+          {"id": 1, "name": "Monstros temíveis", "alias": "B"},
+          {"id": 2, "name": "Quebra de leis físicas", "alias": "A"}
+        ]
+      }
+    ],
+    "results": {
+      "A": "Você se destacaria como um explorador interdimensional!",
+      "B": "Você seria um mestre das artes místicas em várias dimensões!"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Desafio Espacial: Explorador Intergaláctico",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Escolha seu veículo espacial:",
+        "options": [
+          {"id": 1, "name": "Nave de alta velocidade", "alias": "A"},
+          {"id": 2, "name": "Cruzador interestelar", "alias": "A"},
+          {"id": 3, "name": "Nave furtiva invisível", "alias": "B"},
+          {"id": 4, "name": "Nave de guerra pesada", "alias": "A"},
+          {"id": 5, "name": "Nave de exploração científica", "alias": "B"}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Como você lidaria com encontros alienígenas?",
+        "options": [
+          {"id": 1, "name": "Negociando a paz", "alias": "B"},
+          {"id": 2, "name": "Atacando preventivamente", "alias": "A"},
+          {"id": 3, "name": "Diplomacia interestelar", "alias": "B"},
+          {"id": 4, "name": "Fugindo para evitar conflitos", "alias": "B"},
+          {"id": 5, "name": "Estudando suas culturas", "alias": "A"}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Qual seria seu objetivo principal na galáxia?",
+        "options": [
+          {"id": 1, "name": "Conquistar territórios", "alias": "A"},
+          {"id": 2, "name": "Descobrir novos mundos habitáveis", "alias": "B"},
+          {"id": 3, "name": "Proteger a galáxia de ameaças", "alias": "B"},
+          {"id": 4, "name": "Estabelecer rotas comerciais", "alias": "A"},
+          {"id": 5, "name": "Promover a paz intergaláctica", "alias": "B"}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Como você resolveria disputas entre planetas?",
+        "options": [
+          {"id": 1, "name": "Intervindo militarmente", "alias": "A"},
+          {"id": 2, "name": "Negociando tratados de paz", "alias": "B"}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Qual seria sua especialidade?",
+        "options": [
+          {"id": 1, "name": "Exploração científica", "alias": "B"},
+          {"id": 2, "name": "Piloto habilidoso", "alias": "A"}
+        ]
+      },
+      {
+        "id": 6,
+        "question": "O que te motiva a explorar o espaço?",
+        "options": [
+          {"id": 1, "name": "Curiosidade científica", "alias": "B"},
+          {"id": 2, "name": "Busca por recursos valiosos", "alias": "A"}
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Como você lidaria com um buraco negro?",
+        "options": [
+          {"id": 1, "name": "Estudando-o à distância", "alias": "B"},
+          {"id": 2, "name": "Aproveitando sua energia", "alias": "A"}
+        ]
+      }
+    ],
+    "results": {
+      "A": "Você seria um destemido explorador espacial!",
+      "B": "Você se destacaria como um pacificador interestelar!"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Seja um Mestre Pokémon!",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual Pokémon inicial você escolheria?",
+        "options": [
+          {"id": 1, "name": "Charmander", "alias": "A"},
+          {"id": 2, "name": "Bulbasaur", "alias": "B"},
+          {"id": 3, "name": "Squirtle", "alias": "A"},
+          {"id": 4, "name": "Pikachu", "alias": "B"},
+          {"id": 5, "name": "Eevee", "alias": "B"}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual tipo de treinador você seria?",
+        "options": [
+          {"id": 1, "name": "Treinador de Fogo", "alias": "A"},
+          {"id": 2, "name": "Treinador de Plantas", "alias": "B"},
+          {"id": 3, "name": "Treinador de Água", "alias": "A"},
+          {"id": 4, "name": "Treinador Elétrico", "alias": "B"}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "O que você faria se encontrasse uma Equipe Rocket?",
+        "options": [
+          {"id": 1, "name": "Batalharia com eles", "alias": "A"},
+          {"id": 2, "name": "Pediria ajuda a outros treinadores", "alias": "B"},
+          {"id": 3, "name": "Ignoraria e seguiria em frente", "alias": "B"}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual sua estratégia de batalha?",
+        "options": [
+          {"id": 1, "name": "Ataques poderosos", "alias": "A"},
+          {"id": 2, "name": "Estratégias táticas", "alias": "B"},
+          {"id": 3, "name": "Dependeria do meu Pokémon", "alias": "B"}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Qual insígnia de ginásio seria mais difícil de conquistar?",
+        "options": [
+          {"id": 1, "name": "Insígnia de Fogo", "alias": "A"},
+          {"id": 2, "name": "Insígnia de Planta", "alias": "B"},
+          {"id": 3, "name": "Insígnia de Água", "alias": "A"}
+        ]
+      }
+    ],
+    "results": {
+      "A": "Você se tornaria um Treinador Pokémon especializado em tipos de Fogo ou Água!",
+      "B": "Você se tornaria um Treinador Pokémon especializado em tipos de Planta ou Elétrico!"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Jornada pelo Espaço Sideral",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual planeta você gostaria de explorar?",
+        "options": [
+          {"id": 1, "name": "Marte", "alias": "A"},
+          {"id": 2, "name": "Júpiter", "alias": "B"},
+          {"id": 3, "name": "Saturno", "alias": "A"},
+          {"id": 4, "name": "Vênus", "alias": "B"},
+          {"id": 5, "name": "Netuno", "alias": "A"}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Como você lidaria com encontros alienígenas?",
+        "options": [
+          {"id": 1, "name": "Diplomacia", "alias": "B"},
+          {"id": 2, "name": "Confronto", "alias": "A"},
+          {"id": 3, "name": "Fuga", "alias": "B"}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Qual seria sua nave espacial dos sonhos?",
+        "options": [
+          {"id": 1, "name": "Veloz e ágil", "alias": "A"},
+          {"id": 2, "name": "Robusta e resistente", "alias": "B"},
+          {"id": 3, "name": "Equipada com tecnologia avançada", "alias": "A"}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "O que você faria ao descobrir um planeta habitável?",
+        "options": [
+          {"id": 1, "name": "Explorar imediatamente", "alias": "A"},
+          {"id": 2, "name": "Estabelecer uma colônia", "alias": "B"},
+          {"id": 3, "name": "Relatar à Terra", "alias": "B"}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Qual seria sua profissão no espaço?",
+        "options": [
+          {"id": 1, "name": "Explorador", "alias": "A"},
+          {"id": 2, "name": "Cientista espacial", "alias": "B"},
+          {"id": 3, "name": "Piloto de nave", "alias": "A"}
+        ]
+      }
+    ],
+    "results": {
+      "A": "Você seria um Aventureiro Espacial destemido!",
+      "B": "Você seria um Cientista Espacial dedicado à exploração e pesquisa!"
+    }
+  },
+  {
+    "id": 7,
+    "title": "No Mundo dos Jogos de RPG",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual classe de personagem você escolheria?",
+        "options": [
+          {"id": 1, "name": "Guerreiro", "alias": "A"},
+          {"id": 2, "name": "Mago", "alias": "B"},
+          {"id": 3, "name": "Ladrão", "alias": "A"},
+          {"id": 4, "name": "Clérigo", "alias": "B"},
+          {"id": 5, "name": "Arqueiro", "alias": "A"}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual seria sua arma favorita?",
+        "options": [
+          {"id": 1, "name": "Espada", "alias": "A"},
+          {"id": 2, "name": "Varinha mágica", "alias": "B"},
+          {"id": 3, "name": "Adagas", "alias": "A"},
+          {"id": 4, "name": "Martelo de guerra", "alias": "B"}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Como você enfrentaria um dragão?",
+        "options": [
+          {"id": 1, "name": "Combate direto", "alias": "A"},
+          {"id": 2, "name": "Usando magia", "alias": "B"},
+          {"id": 3, "name": "Fugindo estrategicamente", "alias": "A"}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual seria seu objetivo na jornada?",
+        "options": [
+          {"id": 1, "name": "Conquistar territórios", "alias": "A"},
+          {"id": 2, "name": "Buscar conhecimento mágico", "alias": "B"},
+          {"id": 3, "name": "Acumular riquezas", "alias": "A"}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Como você lidaria com aliados traiçoeiros?",
+        "options": [
+          {"id": 1, "name": "Confrontaria diretamente", "alias": "A"},
+          {"id": 2, "name": "Usaria diplomacia", "alias": "B"},
+          {"id": 3, "name": "Ficaria alerta, mas continuaria a jornada", "alias": "A"}
+        ]
+      }
+    ],
+    "results": {
+      "A": "Você se tornaria um Aventureiro Bravo em busca de conquistas!",
+      "B": "Você se tornaria um Sábio Mágico dedicado à busca por conhecimento!"
+    }
+  }
+]
